@@ -90,7 +90,8 @@
 | ------------- | ------------- | ------------- | ------------- |
 | outerTpl  | ``` &outerTpl=`NewsOuterTpl` ``` | ownerTPL | ``` &ownerTPL=`NewsOuterTpl` ``` |
 | tpl  | ``` &tpl=`NewsTpl` ``` | :heavy_check_mark: | :heavy_check_mark: |
-| tplAlt  | ------------- | ------------- | ------------- |
+| tplAlt  | &tplAlt=`MyEvenTpl` | tplEven | &tplEven=`MyEvenTpl` |
+| tplOdd  | ------------- | tplOdd | &tplOdd=`MyOddTpl` |
 | tplCurrentDocument  | ------------- | ------------- | ------------- |
 | tplFirst | ``` &tplFirst=`NewsTplFirst` ``` | :heavy_check_mark: | :heavy_check_mark: |
 | tplLast | ``` &tplLast=`NewsTplLast` ``` | :heavy_check_mark: | :heavy_check_mark: |
